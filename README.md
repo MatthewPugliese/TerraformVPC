@@ -3,9 +3,13 @@
 This repository includes all of the files necessary to create an AWS VPC.
  
 Included in the VPC are:
+
         1 Public Subnet
+        
         1 Private Subnet
+        
         1 Internet Gateway
+        
         1 Route Table
         
         
