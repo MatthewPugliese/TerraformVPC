@@ -19,5 +19,5 @@ For security reasons, the access_key and secret_key, which are required to actua
 A video scrolling through all of the components of the VPC on an example AWS account can be found here: https://www.youtube.com/watch?v=eK5VeazQyr0
 
 
-If there are any issues with building or running any aspect of the program, feel free to contact my at mfpugliese@colgate.edu or (914) 708-7991.
+If there are any issues with building or running any aspect of the program, feel free to contact me at mfpugliese@colgate.edu or (914) 708-7991.
 
